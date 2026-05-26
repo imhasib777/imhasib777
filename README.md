@@ -200,9 +200,9 @@ Data Analysis
 
 | No. | Hackathon / Competition Name | Year | Organized By | Position / Place | Certificate |
 |---:|---|---|---|---|---|
-| 1 | **Hackathon Name Here** | 2025 | Organizer Name Here | 🥇 **Champion / 1st Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
-| 2 | **Competition Name Here** | 2025 | Organizer Name Here | 🥈 **Runner-up / 2nd Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
-| 3 | **AI Hackathon Name Here** | 2025 | Organizer Name Here | 🏅 **Prize Winner** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 1 | **AI Hackathon** | 2026 | GSTU CSE FEST 2026 | 🥇 **3rd Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 2 | **INNOVATEX HACKATHON 2025** | 2025 | BUBT & Programming Hero | 🥈 ** 9th Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 3 | **INNOVATION Spark 1.0** | 2025 | BYSIS | 🏅 **National Round--BRONZE ** | [View Certificate](CERTIFICATE_LINK_HERE) |
 | 4 | **National AI BUILD-A-THON** | 2025 | MillionX Bangladesh | 🤖 **Final Round** | [View Certificate](https://github.com/imhasib777/Certificates/blob/main/MillionX_Certificate.pdf) |
 
 <br>
