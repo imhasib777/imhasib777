@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Md%20Hasibul%20Haque&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20Enthusiast%20%7C%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Md%20Hasibul%20Haque&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=18" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+my+future+with+code;Learning+AI+and+Machine+Learning;Exploring+Deep+Learning+and+Data+Science;Python+Developer+in+progress;Always+learning%2C+always+improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Learner;Python+Developer;Data+Analysis+Enthusiast;Always+learning%2C+always+improving" />
 
 </div>
 
@@ -14,14 +10,17 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/imhasib777">
+  <img src="https://img.shields.io/badge/GitHub-imhasib777-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/md-hasibul-haque-160337302">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:imhasib77@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/mdhasibulhaque">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </div>
@@ -36,17 +35,17 @@
 
 ### Hi, I am **Md Hasibul Haque**
 
-I am a **Computer Engineering student** who is passionate about **Artificial Intelligence, Machine Learning, Python Development, and Data Science**.
+I am a **Computer Engineering student** passionate about **Artificial Intelligence, Machine Learning, Python Development, and Data Analysis**.
 
-I enjoy learning new technologies, building useful projects, and improving my programming and problem-solving skills step by step.
+I enjoy learning new technologies, solving problems, and building practical projects that help me improve my skills step by step.
 
 ### Current Focus
 
 - 🤖 Learning **Artificial Intelligence**
-- 📊 Exploring **Data Science**
-- 🧠 Practicing **Machine Learning**
+- 🧠 Exploring **Machine Learning**
+- 📊 Practicing **Data Analysis**
 - 🐍 Building projects with **Python**
-- 💻 Improving **software development skills**
+- 💻 Improving **programming and problem-solving skills**
 - 🚀 Growing as a future engineer and developer
 
 </td>
@@ -83,9 +82,9 @@ Python Development
 </td>
 
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Goal-Build%20Projects-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interest-Data%20Analysis-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 <br><br>
-Real-world Practice
+Data Projects
 </td>
 </tr>
 </table>
@@ -136,12 +135,12 @@ Real-world Practice
 
 ## Next Goals
 
-- Build AI projects
+- Build more AI projects
 - Create data analysis projects
 - Learn neural networks deeply
 - Improve coding logic
-- Contribute to GitHub
-- Build a strong portfolio
+- Contribute more on GitHub
+- Build a strong project portfolio
 
 </td>
 </tr>
@@ -156,7 +155,7 @@ Real-world Practice
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F2027?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-203A43?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-2C5364?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Science-00A6FB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 <img src="https://img.shields.io/badge/Python%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge" />
 
@@ -164,54 +163,63 @@ Real-world Practice
 
 ---
 
-# 📌 Project Categories
+# 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🤖 AI / Machine Learning Projects
 
-## 🤖 AI / ML Projects
+<div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+<a href="https://github.com/imhasib777/Mobile_Price_prediction">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Mobile_Price_prediction&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+<a href="https://github.com/imhasib777/Heart_Disease_Prediction">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Heart_Disease_Prediction&theme=github_dark&hide_border=true" />
 </a>
 
-</td>
-<td width="50%">
+</div>
 
-## 💻 Development Projects
+<br>
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+## 📊 Data Analysis Projects
+
+<div align="center">
+
+<a href="https://github.com/imhasib777/Waiter_Data_Analysis_App_Using_python">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Waiter_Data_Analysis_App_Using_python&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+<a href="https://github.com/imhasib777/Data-Analysis-projects-using-Python">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Data-Analysis-projects-using-Python&theme=github_dark&hide_border=true" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
+
+<br>
+
+## 💻 Programming & Practice Projects
+
+<div align="center">
+
+<a href="https://github.com/imhasib777/Data_Analysis_Project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Data_Analysis_Project&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/imhasib777/Phitron_repo">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Phitron_repo&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+---
 
 # 📊 GitHub Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imhasib777&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhasib777&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -219,7 +227,15 @@ Real-world Practice
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=imhasib777&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=imhasib777&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
@@ -229,7 +245,7 @@ Real-world Practice
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=imhasib777&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
 
 </div>
 
@@ -242,11 +258,11 @@ Real-world Practice
 
 <br>
 
-I believe that consistency is the key to becoming a better developer.
+I believe consistency is one of the most important parts of becoming a better developer.
 
-My goal is to keep learning step by step, build meaningful projects, understand core concepts deeply, and improve my skills in programming, artificial intelligence, and software development.
+My goal is to keep learning step by step, build meaningful projects, understand core concepts deeply, and improve my skills in programming, artificial intelligence, machine learning, and data analysis.
 
-I am especially interested in how AI can solve real-world problems and help people in practical ways.
+I am especially interested in how AI and data can solve real-world problems and create useful solutions.
 
 </details>
 
@@ -256,16 +272,20 @@ I am especially interested in how AI can solve real-world problems and help peop
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/md-hasibul-haque-160337302">
+  <img src="https://img.shields.io/badge/LinkedIn-md--hasibul--haque--160337302-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/YOUR_LINK">
-  <img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://www.facebook.com/imhasib777">
+  <img src="https://img.shields.io/badge/Facebook-imhasib777-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:imhasib77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-imhasib77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/mdhasibulhaque">
+  <img src="https://img.shields.io/badge/Kaggle-mdhasibulhaque-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </div>
@@ -276,7 +296,7 @@ I am especially interested in how AI can solve real-world problems and help peop
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=imhasib777&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
