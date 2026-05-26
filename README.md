@@ -64,27 +64,28 @@ I enjoy learning new technologies, solving problems, and building practical proj
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Role-Student%20Developer-00D9FF?style=for-the-badge" />
-<br><br>
+
+### 🎓 Student Developer  
 Computer Engineering
-</td>
 
+</td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-FF6F00?style=for-the-badge" />
-<br><br>
+
+### 🤖 AI Learner  
 Artificial Intelligence
-</td>
 
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<br><br>
-Python Development
 </td>
-
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Interest-Data%20Analysis-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-<br><br>
-Data Projects
+
+### 🐍 Python Developer  
+Python Projects
+
+</td>
+<td align="center" width="25%">
+
+### 📊 Data Explorer  
+Data Analysis
+
 </td>
 </tr>
 </table>
@@ -121,7 +122,7 @@ Data Projects
 <tr>
 <td width="50%">
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Machine Learning
 - Deep Learning
@@ -133,7 +134,7 @@ Data Projects
 </td>
 <td width="50%">
 
-## Next Goals
+## 🎯 Next Goals
 
 - Build more AI projects
 - Create data analysis projects
@@ -165,51 +166,83 @@ Data Projects
 
 # 📌 Featured Projects
 
+Instead of using project images, these projects are shown as **clean clickable repository cards**.  
+Click any repository name to open the project.
+
 ## 🤖 AI / Machine Learning Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/imhasib777/Mobile_Price_prediction">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Mobile_Price_prediction&theme=github_dark&hide_border=true" />
-</a>
+### 📱 [Mobile_Price_prediction](https://github.com/imhasib777/Mobile_Price_prediction)
 
-<a href="https://github.com/imhasib777/Heart_Disease_Prediction">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Heart_Disease_Prediction&theme=github_dark&hide_border=true" />
-</a>
+A machine learning project for predicting mobile phone price categories using data features.
 
-</div>
+**Tech:** Python, Jupyter Notebook, Machine Learning
 
-<br>
+</td>
+<td width="50%">
+
+### ❤️ [Heart_Disease_Prediction](https://github.com/imhasib777/Heart_Disease_Prediction)
+
+A prediction-based machine learning project focused on heart disease analysis.
+
+**Tech:** Python, Jupyter Notebook, ML Model
+
+</td>
+</tr>
+</table>
 
 ## 📊 Data Analysis Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/imhasib777/Waiter_Data_Analysis_App_Using_python">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Waiter_Data_Analysis_App_Using_python&theme=github_dark&hide_border=true" />
-</a>
+### 🍽️ [Waiter_Data_Analysis_App_Using_python](https://github.com/imhasib777/Waiter_Data_Analysis_App_Using_python)
 
-<a href="https://github.com/imhasib777/Data-Analysis-projects-using-Python">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Data-Analysis-projects-using-Python&theme=github_dark&hide_border=true" />
-</a>
+A Python-based data analysis application for waiter-related dataset analysis.
 
-</div>
+**Tech:** Python, Data Analysis
 
-<br>
+</td>
+<td width="50%">
+
+### 📈 [Data-Analysis-projects-using-Python](https://github.com/imhasib777/Data-Analysis-projects-using-Python)
+
+Collection of data analysis projects using Python and Jupyter Notebook.
+
+**Tech:** Python, Jupyter Notebook, Data Analysis
+
+</td>
+</tr>
+</table>
 
 ## 💻 Programming & Practice Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/imhasib777/Data_Analysis_Project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Data_Analysis_Project&theme=github_dark&hide_border=true" />
-</a>
+### 📊 [Data_Analysis_Project](https://github.com/imhasib777/Data_Analysis_Project)
 
-<a href="https://github.com/imhasib777/Phitron_repo">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imhasib777&repo=Phitron_repo&theme=github_dark&hide_border=true" />
-</a>
+A beginner-friendly data analysis project created for practice and learning.
 
-</div>
+**Tech:** Python, Jupyter Notebook
+
+</td>
+<td width="50%">
+
+### 🧑‍💻 [Phitron_repo](https://github.com/imhasib777/Phitron_repo)
+
+Programming practice repository for learning, problem solving, and academic work.
+
+**Tech:** Python, Problem Solving
+
+</td>
+</tr>
+</table>
 
 ---
 
