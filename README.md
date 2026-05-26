@@ -183,80 +183,37 @@ Data Analysis
 </div>
 
 ---
+
 ---
 
-# 🏆 AI Hackathons & Achievements
+# 🏆 Hackathons & Competitions
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Hackathons-Participant-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Achievements-Prize%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
-<img src="https://img.shields.io/badge/Certificates-Earned-6A5ACD?style=for-the-badge&logo=googleforms&logoColor=white" />
+<img src="https://img.shields.io/badge/Hackathons-AI%20%26%20ML-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Achievements-Prizes%20%26%20Certificates-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
+<img src="https://img.shields.io/badge/Focus-Innovation%20%7C%20Problem%20Solving-6A5ACD?style=for-the-badge" />
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
+| No. | Hackathon / Competition Name | Year | Organized By | Position / Place | Certificate |
+|---:|---|---|---|---|---|
+| 1 | **Hackathon Name Here** | 2025 | Organizer Name Here | 🥇 **Champion / 1st Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 2 | **Competition Name Here** | 2025 | Organizer Name Here | 🥈 **Runner-up / 2nd Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 3 | **AI Hackathon Name Here** | 2025 | Organizer Name Here | 🏅 **Prize Winner** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 4 | **Hackathon Name Here** | 2024 | Organizer Name Here | 🤖 **Participant** | [View Certificate](CERTIFICATE_LINK_HERE) |
 
-## 🥇 AI Hackathon Winner
+<br>
 
-### 🏆 Hackathon Name Here
+<div align="center">
 
-- 🧠 Theme: **Artificial Intelligence / Machine Learning**
-- 🏅 Achievement: **Prize Winner**
-- 📅 Year: **2025**
-- 💡 Built an AI-based project to solve a real-world problem
-- 📜 Certificate: [View Certificate](CERTIFICATE_LINK_HERE)
+### 💡 These competitions helped me improve my skills in AI, Machine Learning, teamwork, innovation, and real-world problem solving.
 
-</td>
-<td width="50%">
+</div>
 
-## 🤖 AI Hackathon Participant
-
-### 🚀 Hackathon Name Here
-
-- 🧠 Theme: **AI Innovation / Data Science**
-- 🎯 Role: **Participant**
-- 📅 Year: **2025**
-- 💻 Worked on a practical AI project with problem-solving focus
-- 📜 Certificate: [View Certificate](CERTIFICATE_LINK_HERE)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-## 🏅 Certificate Achievement
-
-### 📜 Certificate Name Here
-
-- 🏢 Organized by: **Organizer Name**
-- 📚 Topic: **AI / Machine Learning**
-- 📅 Year: **2025**
-- 🔗 Certificate: [View Certificate](CERTIFICATE_LINK_HERE)
-
-</td>
-<td width="50%">
-
-## 💡 What I Gained
-
-- Practical AI project-building experience
-- Team collaboration and presentation skills
-- Problem-solving under time limits
-- Better understanding of real-world AI applications
-- Motivation to build more AI and ML projects
-
-</td>
-</tr>
-</table>
-
-
+---
 
 
 # 📌 Featured Projects
