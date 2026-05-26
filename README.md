@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Learner;Python+Developer;Data+Analysis+Enthusiast;Always+learning%2C+always+improving" />
 
+<h3>📫 Reach Me At</h3>
+
+<a href="mailto:imhasib77@gmail.com">
+  <img src="https://img.shields.io/badge/imhasib77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 <br>
@@ -15,9 +21,6 @@
 </a>
 <a href="https://www.linkedin.com/in/md-hasibul-haque-160337302">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:imhasib77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/mdhasibulhaque">
   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -166,7 +169,6 @@ Data Analysis
 
 # 📌 Featured Projects
 
-Instead of using project images, these projects are shown as **clean clickable repository cards**.  
 Click any repository name to open the project.
 
 ## 🤖 AI / Machine Learning Projects
