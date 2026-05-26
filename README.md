@@ -318,31 +318,6 @@ I am especially interested in how AI and data can solve real-world problems and 
 
 </details>
 
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/md-hasibul-haque-160337302">
-  <img src="https://img.shields.io/badge/LinkedIn-md--hasibul--haque--160337302-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/imhasib777">
-  <img src="https://img.shields.io/badge/Facebook-imhasib777-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:imhasib77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-imhasib77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.kaggle.com/mdhasibulhaque">
-  <img src="https://img.shields.io/badge/Kaggle-mdhasibulhaque-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-</div>
-
----
 
 # 👀 Profile Views
 
