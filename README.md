@@ -172,28 +172,30 @@ Real-world Practice
 
 ## 🤖 AI / ML Projects
 
-- Machine Learning practice projects
-- Deep Learning experiments
-- Data analysis notebooks
-- Python AI tools
-- Beginner-friendly AI models
+<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+</a>
 
 </td>
 <td width="50%">
 
 ## 💻 Development Projects
 
-- Python applications
-- Web development practice
-- Problem-solving solutions
-- Academic programming projects
-- GitHub portfolio projects
+<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/REPOSITORY_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" />
+</a>
 
 </td>
 </tr>
 </table>
-
----
 
 # 📊 GitHub Dashboard
 
