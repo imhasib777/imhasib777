@@ -293,16 +293,6 @@ Programming practice repository for learning, problem solving, and academic work
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imhasib777&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-
-</div>
-
----
-
 # 📚 My Learning Mindset
 
 <details>
@@ -319,15 +309,6 @@ I am especially interested in how AI and data can solve real-world problems and 
 </details>
 
 
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=imhasib777&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-
-</div>
-
----
 
 <div align="center">
 
