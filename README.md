@@ -183,6 +183,81 @@ Data Analysis
 </div>
 
 ---
+---
+
+# 🏆 AI Hackathons & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Hackathons-Participant-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Achievements-Prize%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
+<img src="https://img.shields.io/badge/Certificates-Earned-6A5ACD?style=for-the-badge&logo=googleforms&logoColor=white" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🥇 AI Hackathon Winner
+
+### 🏆 Hackathon Name Here
+
+- 🧠 Theme: **Artificial Intelligence / Machine Learning**
+- 🏅 Achievement: **Prize Winner**
+- 📅 Year: **2025**
+- 💡 Built an AI-based project to solve a real-world problem
+- 📜 Certificate: [View Certificate](CERTIFICATE_LINK_HERE)
+
+</td>
+<td width="50%">
+
+## 🤖 AI Hackathon Participant
+
+### 🚀 Hackathon Name Here
+
+- 🧠 Theme: **AI Innovation / Data Science**
+- 🎯 Role: **Participant**
+- 📅 Year: **2025**
+- 💻 Worked on a practical AI project with problem-solving focus
+- 📜 Certificate: [View Certificate](CERTIFICATE_LINK_HERE)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏅 Certificate Achievement
+
+### 📜 Certificate Name Here
+
+- 🏢 Organized by: **Organizer Name**
+- 📚 Topic: **AI / Machine Learning**
+- 📅 Year: **2025**
+- 🔗 Certificate: [View Certificate](CERTIFICATE_LINK_HERE)
+
+</td>
+<td width="50%">
+
+## 💡 What I Gained
+
+- Practical AI project-building experience
+- Team collaboration and presentation skills
+- Problem-solving under time limits
+- Better understanding of real-world AI applications
+- Motivation to build more AI and ML projects
+
+</td>
+</tr>
+</table>
+
+
+
 
 # 📌 Featured Projects
 
