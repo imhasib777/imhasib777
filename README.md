@@ -203,7 +203,7 @@ Data Analysis
 | 1 | **Hackathon Name Here** | 2025 | Organizer Name Here | 🥇 **Champion / 1st Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
 | 2 | **Competition Name Here** | 2025 | Organizer Name Here | 🥈 **Runner-up / 2nd Place** | [View Certificate](CERTIFICATE_LINK_HERE) |
 | 3 | **AI Hackathon Name Here** | 2025 | Organizer Name Here | 🏅 **Prize Winner** | [View Certificate](CERTIFICATE_LINK_HERE) |
-| 4 | **Hackathon Name Here** | 2024 | Organizer Name Here | 🤖 **Participant** | [View Certificate](CERTIFICATE_LINK_HERE) |
+| 4 | **National AI BUILD-A-THON** | 2025 | MillionX Bangladesh | 🤖 **Final Round** | [View Certificate](https://github.com/imhasib777/Certificates/blob/main/MillionX_Certificate.pdf) |
 
 <br>
 
