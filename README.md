@@ -6,8 +6,8 @@
 
 <h3>📫 Reach Me At</h3>
 
-<a href="mailto:imhasib77@gmail.com">
-  <img src="https://img.shields.io/badge/imhasib77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:imhasib777@gmail.com">
+  <img src="https://img.shields.io/badge/imhasib777%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -99,21 +99,38 @@ Data Analysis
 
 <div align="center">
 
-### Languages
+## 💻 Languages & Database
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### Web Basics
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+## 🌐 Web Development
 
-### Tools
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br><br>
 
-### AI / ML
+## 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br><br>
+
+## 🤖 AI / ML Libraries
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 </div>
 
