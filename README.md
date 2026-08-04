@@ -62,6 +62,43 @@ I enjoy learning new technologies, solving problems, and building practical proj
 
 ---
 
+# 🎓 Academic Education
+
+<table>
+<tr>
+<th>University</th>
+<th>Degree</th>
+<th>Subject</th>
+<th>GPA</th>
+<th>Year</th>
+<th>Certificate</th>
+</tr>
+
+<tr>
+<td><b>Gopalganj Science and Technology University (GSTU)</b></td>
+<td>Bachelor of Science (B.Sc.)</td>
+<td>Computer Engineering</td>
+<td>3.67</td>
+<td>2023 – 2027</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td><b>Lanzhou University of Technology (LUT), China</b></td>
+<td>International AI Summer Camp 2026</td>
+<td>AI, Robotics and Automation</td>
+<td>N/A</td>
+<td>July 2026</td>
+<td>
+<a href="https://github.com/imhasib777/Certificates/blob/main/International/LUT_AI_Summer_Camp_2026_Certificate.jpg">
+📜 View Certificate
+</a>
+</td>
+</tr>
+
+</table>
+
+------
 
 # 🎓 Academic Education
 
@@ -72,26 +109,184 @@ I enjoy learning new technologies, solving problems, and building practical proj
 <th>Subject</th>
 <th>GPA</th>
 <th>Year</th>
+<th>Certificate</th>
 </tr>
 
 <tr>
 <td><b>Gopalganj Science and Technology University (GSTU)</b></td>
 <td>Bachelor of Science (B.Sc.)</td>
 <td>Computer Engineering</td>
-<td>***</td>
-<td>**** – ****</td>
+<td>3.67</td>
+<td>2023 – 2027</td>
+<td>—</td>
 </tr>
 
 <tr>
 <td><b>Lanzhou University of Technology (LUT), China</b></td>
-<td>International AI Summer School</td>
-<td>Artificial Intelligence</td>
-<td>Certificate of Completion</td>
-<td>2026</td>
+<td>International AI Summer Camp 2026</td>
+<td>AI, Robotics and Automation</td>
+<td>N/A</td>
+<td>July 2026</td>
+<td>
+<a href="https://github.com/imhasib777/Certificates/blob/main/International/LUT_AI_Summer_Camp_2026_Certificate.jpg">
+📜 View Certificate
+</a>
+</td>
 </tr>
 
 </table>
 
+------
+
+# 🎓 Academic Education
+
+<table>
+<tr>
+<th>University</th>
+<th>Degree</th>
+<th>Subject</th>
+<th>GPA</th>
+<th>Year</th>
+<th>Certificate</th>
+</tr>
+
+<tr>
+<td><b>Gopalganj Science and Technology University (GSTU)</b></td>
+<td>Bachelor of Science (B.Sc.)</td>
+<td>Computer Engineering</td>
+<td>3.67</td>
+<td>2023 – 2027</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td><b>Lanzhou University of Technology (LUT), China</b></td>
+<td>International AI Summer Camp 2026</td>
+<td>AI, Robotics and Automation</td>
+<td>N/A</td>
+<td>July 2026</td>
+<td>
+<a href="https://github.com/imhasib777/Certificates/blob/main/International/LUT_AI_Summer_Camp_2026_Certificate.jpg">
+📜 View Certificate
+</a>
+</td>
+</tr>
+
+</table>
+
+------
+
+# 🎓 Academic Education
+
+<table>
+<tr>
+<th>University</th>
+<th>Degree</th>
+<th>Subject</th>
+<th>GPA</th>
+<th>Year</th>
+<th>Certificate</th>
+</tr>
+
+<tr>
+<td><b>Gopalganj Science and Technology University (GSTU)</b></td>
+<td>Bachelor of Science (B.Sc.)</td>
+<td>Computer Engineering</td>
+<td>3.67</td>
+<td>2023 – 2027</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td><b>Lanzhou University of Technology (LUT), China</b></td>
+<td>International AI Summer Camp 2026</td>
+<td>AI, Robotics and Automation</td>
+<td>N/A</td>
+<td>July 2026</td>
+<td>
+<a href="https://github.com/imhasib777/Certificates/blob/main/International/LUT_AI_Summer_Camp_2026_Certificate.jpg">
+📜 View Certificate
+</a>
+</td>
+</tr>
+
+</table>
+
+------
+
+# 🎓 Academic Education
+
+<table>
+<tr>
+<th>University</th>
+<th>Degree</th>
+<th>Subject</th>
+<th>GPA</th>
+<th>Year</th>
+<th>Certificate</th>
+</tr>
+
+<tr>
+<td><b>Gopalganj Science and Technology University (GSTU)</b></td>
+<td>Bachelor of Science (B.Sc.)</td>
+<td>Computer Engineering</td>
+<td>3.67</td>
+<td>2023 – 2027</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td><b>Lanzhou University of Technology (LUT), China</b></td>
+<td>International AI Summer Camp 2026</td>
+<td>AI, Robotics and Automation</td>
+<td>N/A</td>
+<td>July 2026</td>
+<td>
+<a href="https://github.com/imhasib777/Certificates/blob/main/International/LUT_AI_Summer_Camp_2026_Certificate.jpg">
+📜 View Certificate
+</a>
+</td>
+</tr>
+
+</table>
+
+------
+
+# 🎓 Academic Education
+
+<table>
+<tr>
+<th>University</th>
+<th>Degree</th>
+<th>Subject</th>
+<th>GPA</th>
+<th>Year</th>
+<th>Certificate</th>
+</tr>
+
+<tr>
+<td><b>Gopalganj Science and Technology University (GSTU)</b></td>
+<td>Bachelor of Science (B.Sc.)</td>
+<td>Computer Engineering</td>
+<td>3.67</td>
+<td>2023 – 2027</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td><b>Lanzhou University of Technology (LUT), China</b></td>
+<td>International AI Summer Camp 2026</td>
+<td>AI, Robotics and Automation</td>
+<td>N/A</td>
+<td>July 2026</td>
+<td>
+<a href="https://github.com/imhasib777/Certificates/blob/main/International/LUT_AI_Summer_Camp_2026_Certificate.jpg">
+📜 View Certificate
+</a>
+</td>
+</tr>
+
+</table>
 
 ---
 
