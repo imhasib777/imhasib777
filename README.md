@@ -62,7 +62,6 @@ I enjoy learning new technologies, solving problems, and building practical proj
 
 ---
 
----
 
 # 🎓 Academic Education
 
@@ -76,14 +75,23 @@ I enjoy learning new technologies, solving problems, and building practical proj
 </tr>
 
 <tr>
-<td>University Name</td>
+<td><b>Gopalganj Science and Technology University (GSTU)</b></td>
 <td>Bachelor of Science (B.Sc.)</td>
 <td>Computer Engineering</td>
 <td>***</td>
 <td>**** – ****</td>
 </tr>
 
+<tr>
+<td><b>Lanzhou University of Technology (LUT), China</b></td>
+<td>International AI Summer School</td>
+<td>Artificial Intelligence</td>
+<td>Certificate of Completion</td>
+<td>2026</td>
+</tr>
+
 </table>
+
 
 ---
 
