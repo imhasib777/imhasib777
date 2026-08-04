@@ -62,6 +62,32 @@ I enjoy learning new technologies, solving problems, and building practical proj
 
 ---
 
+---
+
+# 🎓 Academic Education
+
+<table>
+<tr>
+<th>University</th>
+<th>Degree</th>
+<th>Subject</th>
+<th>GPA</th>
+<th>Year</th>
+</tr>
+
+<tr>
+<td>University Name</td>
+<td>Bachelor of Science (B.Sc.)</td>
+<td>Computer Engineering</td>
+<td>***</td>
+<td>**** – ****</td>
+</tr>
+
+</table>
+
+---
+
+
 # 🧠 Developer Profile
 
 <table>
