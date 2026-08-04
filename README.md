@@ -204,103 +204,20 @@ July 2026
 
 # 🚀 Featured Projects
 
-> A selection of projects showcasing my interests in **Artificial Intelligence, Machine Learning, Data Analysis, and Software Development**.
+A selection of projects demonstrating my experience in **Artificial Intelligence, Machine Learning, Data Analysis, and Software Development**.
 
-## 🤖 Artificial Intelligence & Machine Learning
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📱 <a href="https://github.com/imhasib777/Mobile_Price_prediction">Mobile Price Prediction</a>
-
-Machine Learning model for predicting smartphone price categories using multiple device specifications and feature engineering techniques.
-
-**Tech Stack:** Python • Pandas • Scikit-Learn • Jupyter Notebook
-
-</td>
-
-<td width="50%" valign="top">
-
-### ❤️ <a href="https://github.com/imhasib777/Heart_Disease_Prediction">Heart Disease Prediction</a>
-
-Classification model that predicts the likelihood of heart disease using patient health records and machine learning algorithms.
-
-**Tech Stack:** Python • Scikit-Learn • Pandas • Matplotlib
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 Data Analytics
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🍽️ <a href="https://github.com/imhasib777/Waiter_Data_Analysis_App_Using_python">Waiter Data Analysis App</a>
-
-Desktop application for analyzing restaurant datasets with automated reporting and interactive data visualization.
-
-**Tech Stack:** Python • Tkinter • Pandas • OpenPyXL
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 <a href="https://github.com/imhasib777/Data-Analysis-projects-using-Python">Data Analysis using Python</a>
-
-Collection of exploratory data analysis projects covering data preprocessing, visualization, and statistical insights.
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💻 Programming & Learning Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 <a href="https://github.com/imhasib777/Data_Analysis_Project">Data Analysis Project</a>
-
-Practice-based data analysis project demonstrating data cleaning, visualization, and machine learning fundamentals.
-
-**Tech Stack:** Python • Pandas • Jupyter Notebook
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧑‍💻 <a href="https://github.com/imhasib777/Phitron_repo">Phitron Repository</a>
-
-A repository containing programming exercises, algorithm implementations, problem-solving solutions, and academic coursework.
-
-**Tech Stack:** Python • C++ • Problem Solving
-
-</td>
-
-</tr>
-</table>
-
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **📱 [Mobile Price Prediction](https://github.com/imhasib777/Mobile_Price_prediction)** | Machine learning model for predicting smartphone price categories using feature engineering and classification techniques. | Python • Pandas • Scikit-learn |
+| **❤️ [Heart Disease Prediction](https://github.com/imhasib777/Heart_Disease_Prediction)** | Predictive model for heart disease risk using machine learning algorithms and healthcare data. | Python • Scikit-learn • Matplotlib |
+| **🍽️ [Waiter Data Analysis App](https://github.com/imhasib777/Waiter_Data_Analysis_App_Using_python)** | Desktop application for analyzing restaurant datasets with automated reports and visualizations. | Python • Tkinter • Pandas |
+| **📊 [Data Analysis using Python](https://github.com/imhasib777/Data-Analysis-projects-using-Python)** | Collection of exploratory data analysis and visualization projects using Python. | Pandas • NumPy • Matplotlib |
+| **💻 [Data Analysis Project](https://github.com/imhasib777/Data_Analysis_Project)** | Practice-based project covering data preprocessing, visualization, and machine learning fundamentals. | Python • Jupyter Notebook |
+| **🧑‍💻 [Phitron Repository](https://github.com/imhasib777/Phitron_repo)** | Programming exercises, algorithms, and coursework completed during my learning journey. | Python • C++ |
 
 <div align="center">
 
-### 🔬 Interested in Artificial Intelligence, Machine Learning, Computer Vision, Data Science, and Software Engineering.
-
-⭐ **More projects are available on my GitHub profile.**
+⭐ Explore more projects on my <a href="https://github.com/imhasib777?tab=repositories">GitHub Repositories</a>
 
 </div>
 
