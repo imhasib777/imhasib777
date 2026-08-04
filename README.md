@@ -172,15 +172,6 @@ July 2026
 
 ---
 
-# 🏅 Certifications
-
-| Certificate | Organization | Year |
-|-------------|--------------|------|
-| LUT International AI Summer School | Lanzhou University of Technology | 2026 |
-| *(Add More Here)* | | |
-
----
-
 # 🛠 Tech Stack
 
 <div align="center">
@@ -223,15 +214,35 @@ July 2026
 
 ---
 
-# 🏆 Hackathons & Competitions
+# 🏆 Hackathons, Competitions & International Programs
 
-| Competition | Year | Achievement |
-|------------|------|------------|
-| AI Hackathon (GSTU CSE FEST) | 2026 | 🥉 3rd Place |
-| THE INFINITY AI BUILDFEST | 2026 | Final Round |
-| INNOVATEX HACKATHON | 2025 | 9th Place |
-| Innovation Spark 1.0 | 2025 | Bronze |
-| National AI BUILD-A-THON | 2025 | Final Round |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hackathons-AI%20%26%20ML-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Achievements-Awards%20%26%20Academic%20Programs-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
+<img src="https://img.shields.io/badge/Focus-Innovation%20|%20Research%20|%20Global%20Learning-6A5ACD?style=for-the-badge" />
+
+</div>
+
+<br>
+
+| No. | Event / Program | Year | Organizer | Achievement | Certificate |
+|:--:|-----------------|:---:|-----------|-------------|-------------|
+| 1 | **LUT International AI Summer School 2026** | 2026 | Lanzhou University of Technology (China) | 🌏 Successfully Completed International Academic Program | [📜 View Certificate](YOUR_CERTIFICATE_LINK) |
+| 2 | **AI Hackathon** | 2026 | GSTU CSE FEST 2026 | 🥉 **3rd Place** | [📜 View Certificate](https://github.com/imhasib777/Certificates/blob/main/Hackathon/AI%20BUILDFEST/IMG_20260612_231247.jpg.jpeg) |
+| 3 | **THE INFINITY AI BUILDFEST** | 2026 | CloudCamp & BRAC University | 🏅 Final Round | [📜 View Certificate](https://github.com/imhasib777/Certificates/blob/main/Hackathon/INNOVATEX%20HACKATHON%202025/BUBT%20Certificate.jpeg) |
+| 4 | **INNOVATEX HACKATHON 2025** | 2025 | BUBT & Programming Hero | 🏅 Top 9 Finalists | [📜 View Certificate](https://github.com/imhasib777/Certificates/blob/main/Hackathon/INNOVATEX%20HACKATHON%202025/BUBT%20Certificate.jpeg) |
+| 5 | **INNOVATION Spark 1.0** | 2025 | BYSIS | 🥉 National Round (Bronze) | [📜 View Certificate](https://github.com/imhasib777/Certificates/blob/main/Hackathon/INNOVATION%20SPARK%201.0/BYSIS%20Certificate.jpeg) |
+| 6 | **National AI BUILD-A-THON** | 2025 | MillionX Bangladesh | 🤖 Final Round | [📜 View Certificate](https://github.com/imhasib777/Certificates/blob/main/Hackathon/MillionX/MillionX_Certificate.pdf) |
+
+<br>
+
+<div align="center">
+
+### 💡 These experiences strengthened my expertise in Artificial Intelligence, Machine Learning, innovation, teamwork, research, and real-world problem solving.
+
+</div>
+
 
 ---
 
