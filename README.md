@@ -202,17 +202,88 @@ July 2026
 
 ---
 
-# 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 📱 Mobile Price Prediction | ML model predicting smartphone price categories | Python, Scikit-Learn |
-| ❤️ Heart Disease Prediction | Classification model for heart disease detection | Python, ML |
-| 📊 Waiter Data Analysis App | Desktop data analysis software | Python |
-| 📈 Data Analysis Projects | Collection of analytics projects | Pandas, NumPy |
-| 🤖 More Projects | Visit my GitHub repositories | Python |
+# 📌 Featured Projects
+
+Click any repository name to open the project.
+
+## 🤖 AI / Machine Learning Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 [Mobile_Price_prediction](https://github.com/imhasib777/Mobile_Price_prediction)
+
+A machine learning project for predicting mobile phone price categories using data features.
+
+**Tech:** Python, Jupyter Notebook, Machine Learning
+
+</td>
+<td width="50%">
+
+### ❤️ [Heart_Disease_Prediction](https://github.com/imhasib777/Heart_Disease_Prediction)
+
+A prediction-based machine learning project focused on heart disease analysis.
+
+**Tech:** Python, Jupyter Notebook, ML Model
+
+</td>
+</tr>
+</table>
+
+## 📊 Data Analysis Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ [Waiter_Data_Analysis_App_Using_python](https://github.com/imhasib777/Waiter_Data_Analysis_App_Using_python)
+
+A Python-based data analysis application for waiter-related dataset analysis.
+
+**Tech:** Python, Data Analysis
+
+</td>
+<td width="50%">
+
+### 📈 [Data-Analysis-projects-using-Python](https://github.com/imhasib777/Data-Analysis-projects-using-Python)
+
+Collection of data analysis projects using Python and Jupyter Notebook.
+
+**Tech:** Python, Jupyter Notebook, Data Analysis
+
+</td>
+</tr>
+</table>
+
+## 💻 Programming & Practice Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 [Data_Analysis_Project](https://github.com/imhasib777/Data_Analysis_Project)
+
+A beginner-friendly data analysis project created for practice and learning.
+
+**Tech:** Python, Jupyter Notebook
+
+</td>
+<td width="50%">
+
+### 🧑‍💻 [Phitron_repo](https://github.com/imhasib777/Phitron_repo)
+
+Programming practice repository for learning, problem solving, and academic work.
+
+**Tech:** Python, Problem Solving
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 # 🏆 Hackathons, Competitions & International Programs
 
