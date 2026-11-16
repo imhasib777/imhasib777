@@ -6,7 +6,7 @@
 
 # Hi there 👋 I'm Md Hasibul Haque
 
-Computer Engineering Student • AI & Machine Learning Enthusiast • Python Developer
+Computer Engineering Student • AI/ML/DL/NLP/LLM/CV Enthusiast • CV/NLP Researcher
 
 <p>
 
@@ -40,12 +40,12 @@ Computer Engineering Student • AI & Machine Learning Enthusiast • Python Dev
 
 <td width="65%">
 
-I'm a **Computer Engineering undergraduate** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Analysis, and Software Development**.
+I'm a **Computer Engineering undergraduate** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision,NLP,LLM, Data Analysis, and Software Development**.
 
 I enjoy transforming ideas into practical AI solutions through research, experimentation, and real-world projects.
 
 ### Currently Working On
-
+- Research paper on NLP and CV
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 👁️ Computer Vision
@@ -55,7 +55,7 @@ I enjoy transforming ideas into practical AI solutions through research, experim
 
 ### Career Goal
 
-To become an AI Engineer and Researcher focused on solving real-world problems through intelligent systems.
+To become an AI/NLP/LLM Engineer and Researcher focused on solving real-world problems through intelligent systems.
 
 </td>
 
@@ -106,7 +106,7 @@ Computer Engineering
 
 <td>
 
-CGPA **3.67 / 4.00**
+CGPA **3.63 / 4.00**
 
 </td>
 
